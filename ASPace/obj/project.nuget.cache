@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mhpoxxRjBHA1mKLxiMUOAufmTJz1PsUwNnDB8Y8Iy+PrbeRZ3dKzlcRSf0zRBKGBbBgvBVfsvIo5ztdGTS8apg==",
+  "dgSpecHash": "o+jbPQUsCrTkP5xfL1M3iCr5b8K27C+OfH9cRbcqvjPRudBKmhdMEOBtRBJ0UzD8GApIWnPWwhghPqr+FMuQDA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\berke\\OneDrive\\Masaüstü\\ASPace\\ASPace\\ASPace\\ASPace.csproj",
+  "projectFilePath": "C:\\Users\\berke\\Desktop\\ASPace\\ASPace\\ASPace.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\berke\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\berke\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

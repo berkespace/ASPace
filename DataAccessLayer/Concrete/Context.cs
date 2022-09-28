@@ -12,7 +12,7 @@ namespace DataAccessLayer.Concrete
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("server=BERKE-BEAUTIFUL;database=ASpaceDB;integrated security=true");
+            optionsBuilder.UseSqlServer("server=localhost;database=ASpaceDB;integrated security=true");
 
         }
 
