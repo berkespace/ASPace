@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tsF5hr7DiF0VI64SPQTORifpG63Ih3yKbu3dTWRiLrBD/hPTrUb4dGatQj+DZAvpnbH9yqwnovnMx6625i6N7Q==",
+  "dgSpecHash": "u5j1CocUvK6q58hH/R/UcXtppjLgEjyg4yyvn+y6XZTj9JdVkq8iHdt+/vvWRlMe4SA4N1OW2+Evk3+knJX1Sg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\berke\\Desktop\\ASPace\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\berke\\OneDrive\\Masaüstü\\ASPace\\ASPace\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\berke\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\berke\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

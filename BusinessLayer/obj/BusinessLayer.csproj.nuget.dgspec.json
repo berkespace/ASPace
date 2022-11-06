@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\berke\\Desktop\\ASPace\\BusinessLayer\\BusinessLayer.csproj": {}
+    "C:\\Users\\berke\\OneDrive\\Masaüstü\\ASPace\\ASPace\\BusinessLayer\\BusinessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\berke\\Desktop\\ASPace\\BusinessLayer\\BusinessLayer.csproj": {
+    "C:\\Users\\berke\\OneDrive\\Masaüstü\\ASPace\\ASPace\\BusinessLayer\\BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\berke\\Desktop\\ASPace\\BusinessLayer\\BusinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\berke\\OneDrive\\Masaüstü\\ASPace\\ASPace\\BusinessLayer\\BusinessLayer.csproj",
         "projectName": "BusinessLayer",
-        "projectPath": "C:\\Users\\berke\\Desktop\\ASPace\\BusinessLayer\\BusinessLayer.csproj",
+        "projectPath": "C:\\Users\\berke\\OneDrive\\Masaüstü\\ASPace\\ASPace\\BusinessLayer\\BusinessLayer.csproj",
         "packagesPath": "C:\\Users\\berke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\berke\\Desktop\\ASPace\\BusinessLayer\\obj\\",
+        "outputPath": "C:\\Users\\berke\\OneDrive\\Masaüstü\\ASPace\\ASPace\\BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\berke\\Desktop\\ASPace\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\berke\\Desktop\\ASPace\\DataAccessLayer\\DataAccessLayer.csproj"
+              "C:\\Users\\berke\\OneDrive\\Masaüstü\\ASPace\\ASPace\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\berke\\OneDrive\\Masaüstü\\ASPace\\ASPace\\DataAccessLayer\\DataAccessLayer.csproj"
               },
-              "C:\\Users\\berke\\Desktop\\ASPace\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\berke\\Desktop\\ASPace\\EntityLayer\\EntityLayer.csproj"
+              "C:\\Users\\berke\\OneDrive\\Masaüstü\\ASPace\\ASPace\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\berke\\OneDrive\\Masaüstü\\ASPace\\ASPace\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -78,7 +78,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -87,18 +88,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\berke\\Desktop\\ASPace\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\Users\\berke\\OneDrive\\Masaüstü\\ASPace\\ASPace\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\berke\\Desktop\\ASPace\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\berke\\OneDrive\\Masaüstü\\ASPace\\ASPace\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\Users\\berke\\Desktop\\ASPace\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\berke\\OneDrive\\Masaüstü\\ASPace\\ASPace\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\berke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\berke\\Desktop\\ASPace\\DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\berke\\OneDrive\\Masaüstü\\ASPace\\ASPace\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -119,8 +120,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\berke\\Desktop\\ASPace\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\berke\\Desktop\\ASPace\\EntityLayer\\EntityLayer.csproj"
+              "C:\\Users\\berke\\OneDrive\\Masaüstü\\ASPace\\ASPace\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\berke\\OneDrive\\Masaüstü\\ASPace\\ASPace\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -162,7 +163,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -171,18 +173,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\berke\\Desktop\\ASPace\\EntityLayer\\EntityLayer.csproj": {
+    "C:\\Users\\berke\\OneDrive\\Masaüstü\\ASPace\\ASPace\\EntityLayer\\EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\berke\\Desktop\\ASPace\\EntityLayer\\EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\berke\\OneDrive\\Masaüstü\\ASPace\\ASPace\\EntityLayer\\EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "C:\\Users\\berke\\Desktop\\ASPace\\EntityLayer\\EntityLayer.csproj",
+        "projectPath": "C:\\Users\\berke\\OneDrive\\Masaüstü\\ASPace\\ASPace\\EntityLayer\\EntityLayer.csproj",
         "packagesPath": "C:\\Users\\berke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\berke\\Desktop\\ASPace\\EntityLayer\\obj\\",
+        "outputPath": "C:\\Users\\berke\\OneDrive\\Masaüstü\\ASPace\\ASPace\\EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -242,7 +244,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -251,7 +254,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
